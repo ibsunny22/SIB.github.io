@@ -13,5 +13,4 @@ What else do you need?
 
 ### My story
 
-I am a graduate of Applied Physics (Geophysics Major), I am currectly doing my Post graduate studies in
-Industrial Engineering (project management Major)
+I am a graduate of Applied Physics (Geophysics Major).
